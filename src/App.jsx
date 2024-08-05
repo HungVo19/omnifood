@@ -1,5 +1,5 @@
 import GlobalStyles from "./style/globalStyles.js";
-import Home from "./application/feature/home/home.jsx";
+import Home from "./application/feature/Home/index.jsx";
 
 function App() {
   return (

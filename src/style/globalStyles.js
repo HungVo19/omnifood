@@ -15,7 +15,9 @@ const GlobalStyles = createGlobalStyle`
 
     --- 02 COLORS ---
     
-    - Primary: #e67e22
+    - Primary: 
+    #e67e22
+    #cf711f
     - Tints:
     - Shades:
     - Accents:
@@ -40,7 +42,7 @@ const GlobalStyles = createGlobalStyle`
     }
 
     body {
-        font-family: sans-serif;
+        font-family: 'Rubik',sans-serif;
         line-height: 1;
         font-weight: 400;
         color: #555;
